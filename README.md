@@ -1,7 +1,6 @@
-# Breast-Cancer-Classification-Project
-This project, developed for an ML course, focuses on classifying breast cancer tumors as malignant or benign using machine learning. It includes data preprocessing, feature selection via tree-based importance and correlation pruning, and performance evaluation of Logistic Regression and Multi-Layer Perceptron (MLP) models. Model assessment uses multiple metrics, with special emphasis on the ROC curve and AUC score, which are crucial for imbalanced datasets like this, as they effectively measure the models’ ability to distinguish malignant cases across all classification thresholds.
+# Breast Cancer Classification: Optimizing Malignant/Benign Tumor Detection with Machine Learning
 
-
+This project, developed for an ML course, classifies breast tumors as malignant or benign using Logistic Regression and an MLP neural network. We carefully preprocess the data and select the most important features through tree-based analysis and correlation pruning. Our evaluation focuses on key metrics like precision, recall, and especially ROC/AUC scores – crucial for handling the dataset's imbalance and ensuring reliable cancer detection. The MLP model achieves 94.7% accuracy with a near-perfect 0.992 AUC, demonstrating strong performance for this medical diagnostic task.
 
 ## Tools Used
 
