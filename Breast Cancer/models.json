@@ -1,0 +1,12 @@
+[
+  {
+    "model_name": "LogisticRegression",
+    "model_loss": 0.2760109007358551,
+    "model_acc": 90.97222222222223
+  },
+  {
+    "model_name": "MLP",
+    "model_loss": 0.2363927662372589,
+    "model_acc": 91.40625
+  }
+]
